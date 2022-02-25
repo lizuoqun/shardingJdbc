@@ -246,4 +246,4 @@ spring.shardingsphere.sharding.master-slave-rules.ds1.slave-data-source-names=s1
 spring.shardingsphere.sharding.tables.user1.actual-data-nodes=ds1.user1
 ```
 
-> 项目源码 https://gitee.com/modify_lzq/sharding-jdbc.git
+> 项目源码 https://github.com/lizuoqun/shardingJdbc
